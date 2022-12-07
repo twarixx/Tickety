@@ -1,7 +1,7 @@
 export const HomePage = () => {
 return (
         <div>
-            <p className="text-red-500">It works!</p>
+            <p className="text-gray-100">It works!</p>
         </div>
     )
 };
